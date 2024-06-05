@@ -1,0 +1,1 @@
+- Ao contrário das estufas que são cobertas de material rígido, estes são revestidos por plásticos maleáveis, geralmente por folhas de polietileno

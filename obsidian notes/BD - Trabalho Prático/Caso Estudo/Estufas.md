@@ -1,0 +1,2 @@
+- Revestidas de materiais rígidos, ao contrário dos [[PolyTunnel]] que são revestidos por plásticos maleáveis, por isso estufas são mais resistentes
+- O revestimento que a estufa tem à volta tem a nomenclatura de [[Glazing]]

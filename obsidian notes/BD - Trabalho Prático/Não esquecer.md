@@ -1,0 +1,1 @@
+* Criar um stored procedure chamado replantar, que vai a uma plantação **que já terminou** e vai criar uma nova 

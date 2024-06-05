@@ -1,0 +1,504 @@
+{
+  "model": {
+    "columns": [
+      {
+        "id": "977b50b3-31ee-4d46-bf7e-029e3f84327f",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "O quê?",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null,
+        "multiTagSortDir": "default"
+      },
+      {
+        "id": "26179404-7cb3-40bd-90de-7dbf2e26a3ef",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Principal tabela",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null,
+        "multiTagSortDir": "default"
+      },
+      {
+        "id": "0f5edad2-7470-40b3-a0f5-2ede64bb3fc9",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "tag",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Quem?",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [
+          {
+            "id": "8349265f-c34a-4017-8147-f9ef17a2e5c6",
+            "content": "Pedro Pinho",
+            "color": "yellow"
+          },
+          {
+            "id": "b8042f66-4ff7-4a95-b3a6-5ba9cdcbcd94",
+            "content": "Hugo Guimarães",
+            "color": "brown"
+          }
+        ],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null,
+        "multiTagSortDir": "default"
+      },
+      {
+        "id": "eafc774a-87ed-4182-a507-facca4141b18",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "checkbox",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Acabou?",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null,
+        "multiTagSortDir": "default"
+      },
+      {
+        "id": "69d4cbe6-468d-4393-b91d-c6bd64e751b4",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "last-edited-time",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Last Modified",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null,
+        "multiTagSortDir": "default"
+      }
+    ],
+    "rows": [
+      {
+        "id": "5c13cf76-33b0-419a-b266-fb5c639bd42c",
+        "index": 0,
+        "sourceId": null,
+        "creationDateTime": "2024-05-26T18:48:16.005Z",
+        "lastEditedDateTime": "2024-05-28T14:13:48.755Z",
+        "cells": [
+          {
+            "id": "8d9fa0ec-9370-47c7-8209-c64f90d78d74",
+            "columnId": "977b50b3-31ee-4d46-bf7e-029e3f84327f",
+            "content": "Se Data manutenção > última data manutenção nas estruturas, alterar a ultima manutenção na tabela estrutura",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "cb61c507-8cb2-46e5-9775-e3ccabdf9e9c",
+            "columnId": "26179404-7cb3-40bd-90de-7dbf2e26a3ef",
+            "content": "Manutenção",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "22b9bf5a-6063-4211-b5b7-9ab313c908ea",
+            "columnId": "0f5edad2-7470-40b3-a0f5-2ede64bb3fc9",
+            "tagId": "8349265f-c34a-4017-8147-f9ef17a2e5c6",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "0680789c-d9eb-4314-9853-9e6fa05d71b1",
+            "columnId": "eafc774a-87ed-4182-a507-facca4141b18",
+            "value": true,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "9cf4b0a4-f376-456e-8333-a887e7e72843",
+            "columnId": "69d4cbe6-468d-4393-b91d-c6bd64e751b4",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "a368c782-789f-4120-b345-8b1657e36584",
+        "index": 1,
+        "sourceId": null,
+        "creationDateTime": "2024-05-26T18:52:05.185Z",
+        "lastEditedDateTime": "2024-05-28T14:14:47.999Z",
+        "cells": [
+          {
+            "id": "c7889ead-0134-4ab3-b941-e2b092117684",
+            "columnId": "977b50b3-31ee-4d46-bf7e-029e3f84327f",
+            "content": "Funcionário não pode ser atribuído a uma secção de uma estufa onde não trabalha",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "b77da501-d56d-4f28-aed2-fc612fd76d53",
+            "columnId": "26179404-7cb3-40bd-90de-7dbf2e26a3ef",
+            "content": "Funcionário / Secção",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "439e188f-bde0-49ae-ac4a-bf9f172e4372",
+            "columnId": "0f5edad2-7470-40b3-a0f5-2ede64bb3fc9",
+            "tagId": "b8042f66-4ff7-4a95-b3a6-5ba9cdcbcd94",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "7f29e596-5b71-4828-a529-62b712345d02",
+            "columnId": "eafc774a-87ed-4182-a507-facca4141b18",
+            "value": true,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "9975d474-761a-47b9-bc88-0d5caee50425",
+            "columnId": "69d4cbe6-468d-4393-b91d-c6bd64e751b4",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "6fc7aaf4-edf0-458f-b6e5-8b9cde265df2",
+        "index": 2,
+        "sourceId": null,
+        "creationDateTime": "2024-05-26T18:52:40.761Z",
+        "lastEditedDateTime": "2024-05-28T14:15:57.185Z",
+        "cells": [
+          {
+            "id": "6185786c-0255-4c63-b724-c9d234b54687",
+            "columnId": "977b50b3-31ee-4d46-bf7e-029e3f84327f",
+            "content": "Número de plantações não deve ser maior que a capacidade máxima de uma secção",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "b3e3ce91-5e7a-4ab7-adea-54238a97f0b5",
+            "columnId": "26179404-7cb3-40bd-90de-7dbf2e26a3ef",
+            "content": "Plantação",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "9ab0f420-3ac3-43e2-9812-27526f3a9a46",
+            "columnId": "0f5edad2-7470-40b3-a0f5-2ede64bb3fc9",
+            "tagId": "8349265f-c34a-4017-8147-f9ef17a2e5c6",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "b259e3db-d649-4267-9d52-f9c3338803c2",
+            "columnId": "eafc774a-87ed-4182-a507-facca4141b18",
+            "value": true,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "aa323040-a100-4fbd-94f0-ef3b39f891c6",
+            "columnId": "69d4cbe6-468d-4393-b91d-c6bd64e751b4",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "44737308-d43d-41c7-b5b7-4ce939ea5566",
+        "index": 3,
+        "sourceId": null,
+        "creationDateTime": "2024-05-26T18:53:18.798Z",
+        "lastEditedDateTime": "2024-05-28T14:16:35.314Z",
+        "cells": [
+          {
+            "id": "35946be7-c615-4f6c-8afd-73d2051828aa",
+            "columnId": "977b50b3-31ee-4d46-bf7e-029e3f84327f",
+            "content": "Não podem haver mais de 10 produtos diferentes ao longo de todas as plantações de uma secção",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "51834544-72a0-4ffe-8409-53830ab73d20",
+            "columnId": "26179404-7cb3-40bd-90de-7dbf2e26a3ef",
+            "content": "Plantação",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "8be29afb-a992-4ed9-a953-0990e34fcad0",
+            "columnId": "0f5edad2-7470-40b3-a0f5-2ede64bb3fc9",
+            "tagId": "b8042f66-4ff7-4a95-b3a6-5ba9cdcbcd94",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "9934ef4e-cf49-4816-8e7c-16fd8cecf722",
+            "columnId": "eafc774a-87ed-4182-a507-facca4141b18",
+            "value": true,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "72416db0-a2f1-46a3-bb59-cf3ce2d2ddfb",
+            "columnId": "69d4cbe6-468d-4393-b91d-c6bd64e751b4",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "f56d6802-dbbd-471f-87a9-a5a02587586d",
+        "index": 4,
+        "sourceId": null,
+        "creationDateTime": "2024-05-26T18:54:08.674Z",
+        "lastEditedDateTime": "2024-05-28T14:17:51.759Z",
+        "cells": [
+          {
+            "id": "0a107bab-c147-4d43-a004-ac863aae69ea",
+            "columnId": "977b50b3-31ee-4d46-bf7e-029e3f84327f",
+            "content": "Não deve ser possível adicionar plantações a uma estufa que não esteja operacional",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "843b052a-dae0-4b26-a750-67020b1c6c49",
+            "columnId": "26179404-7cb3-40bd-90de-7dbf2e26a3ef",
+            "content": "Plantação",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "527070fa-9fbd-4890-bb91-f69ded2c3bc3",
+            "columnId": "0f5edad2-7470-40b3-a0f5-2ede64bb3fc9",
+            "tagId": "8349265f-c34a-4017-8147-f9ef17a2e5c6",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "140f7495-b082-43ad-9582-e5aa572e1a3f",
+            "columnId": "eafc774a-87ed-4182-a507-facca4141b18",
+            "value": true,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "1aeb4f05-7787-44cf-87fb-793eae20908b",
+            "columnId": "69d4cbe6-468d-4393-b91d-c6bd64e751b4",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "2507dac6-758d-43c1-9cdd-4712d7441116",
+        "index": 5,
+        "sourceId": null,
+        "creationDateTime": "2024-05-26T18:54:36.800Z",
+        "lastEditedDateTime": "2024-05-28T14:18:57.661Z",
+        "cells": [
+          {
+            "id": "ebbcfa7c-6c7d-4781-b77a-4772cf8347e0",
+            "columnId": "977b50b3-31ee-4d46-bf7e-029e3f84327f",
+            "content": "Não pode haver colheitas em plantações que já acabaram",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "47362da3-7188-417a-bcbc-d3f8ab8bf48e",
+            "columnId": "26179404-7cb3-40bd-90de-7dbf2e26a3ef",
+            "content": "Colheita",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "6e82ae83-b0c0-483a-a8f1-24ad555ec8fb",
+            "columnId": "0f5edad2-7470-40b3-a0f5-2ede64bb3fc9",
+            "tagId": "8349265f-c34a-4017-8147-f9ef17a2e5c6",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "9cba27b4-51e0-4c9f-82bf-0d60dc6134c8",
+            "columnId": "eafc774a-87ed-4182-a507-facca4141b18",
+            "value": true,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "d2701426-da54-4a2f-b19b-96daaa283ce0",
+            "columnId": "69d4cbe6-468d-4393-b91d-c6bd64e751b4",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "9504d61e-5b3d-497e-8fc1-a400fa92435f",
+        "index": 6,
+        "sourceId": null,
+        "creationDateTime": "2024-05-26T18:55:03.496Z",
+        "lastEditedDateTime": "2024-05-28T14:20:09.303Z",
+        "cells": [
+          {
+            "id": "c3224e94-923d-40c4-9556-d6fb4493f7e6",
+            "columnId": "977b50b3-31ee-4d46-bf7e-029e3f84327f",
+            "content": "Não se pode usar insumos em plantações que já acabaram",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "2a705953-091f-41d7-b6a0-b2814e694fbd",
+            "columnId": "26179404-7cb3-40bd-90de-7dbf2e26a3ef",
+            "content": "Plantação / Insumo",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "aa96b9f0-aa5c-4f1b-b025-4935d52459e6",
+            "columnId": "0f5edad2-7470-40b3-a0f5-2ede64bb3fc9",
+            "tagId": "b8042f66-4ff7-4a95-b3a6-5ba9cdcbcd94",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "075a92f9-e29b-4e5f-aea9-8c58889b44c8",
+            "columnId": "eafc774a-87ed-4182-a507-facca4141b18",
+            "value": true,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "2017c919-29e3-4603-97cd-6b4e15fc83d2",
+            "columnId": "69d4cbe6-468d-4393-b91d-c6bd64e751b4",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "5f1de11c-fd4e-4467-b18e-3a4516cb236c",
+        "index": 7,
+        "sourceId": null,
+        "creationDateTime": "2024-05-27T18:02:42.453Z",
+        "lastEditedDateTime": "2024-05-28T14:21:04.467Z",
+        "cells": [
+          {
+            "id": "ca9503e2-8dd1-43d6-90c9-fb3193a146e5",
+            "columnId": "977b50b3-31ee-4d46-bf7e-029e3f84327f",
+            "content": "Data em que foi usado o insumo não pode ser menor que a data da plantação",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "003d3b30-0bb4-41a9-8b3b-5ac8c45aba2e",
+            "columnId": "26179404-7cb3-40bd-90de-7dbf2e26a3ef",
+            "content": "Plantação/Insumo",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "1d841cbd-6f7b-49fc-8054-f6e59b584367",
+            "columnId": "0f5edad2-7470-40b3-a0f5-2ede64bb3fc9",
+            "tagId": "b8042f66-4ff7-4a95-b3a6-5ba9cdcbcd94",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "414834b0-e70b-4ac8-bcd3-e403b8f46966",
+            "columnId": "eafc774a-87ed-4182-a507-facca4141b18",
+            "value": true,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "0a621277-05fd-493f-9f2d-c71a18230716",
+            "columnId": "69d4cbe6-468d-4393-b91d-c6bd64e751b4",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "5421a771-2589-495d-bc61-381ae980712c",
+        "index": 8,
+        "sourceId": null,
+        "creationDateTime": "2024-05-28T12:12:10.410Z",
+        "lastEditedDateTime": "2024-05-28T14:22:43.898Z",
+        "cells": [
+          {
+            "id": "6b838e28-e2b2-4b6f-91ca-26fe2d2a4665",
+            "columnId": "977b50b3-31ee-4d46-bf7e-029e3f84327f",
+            "content": "Não pode haver colheitas antes da data de plantação",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "97c65c1e-adb7-40d1-bf00-5cc59fdc3035",
+            "columnId": "26179404-7cb3-40bd-90de-7dbf2e26a3ef",
+            "content": "Colheita",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "8eb0edc4-22c4-4f25-bf64-a4a312087b99",
+            "columnId": "0f5edad2-7470-40b3-a0f5-2ede64bb3fc9",
+            "tagId": "b8042f66-4ff7-4a95-b3a6-5ba9cdcbcd94",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "ccadb64d-8f32-4af3-bbd7-cc6000f21282",
+            "columnId": "eafc774a-87ed-4182-a507-facca4141b18",
+            "value": true,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "86a36022-78fc-4359-887d-c5730d9b77f8",
+            "columnId": "69d4cbe6-468d-4393-b91d-c6bd64e751b4",
+            "hasValidFrontmatter": null
+          }
+        ]
+      }
+    ],
+    "filters": [
+      {
+        "id": "1697a588-d655-4a8d-8881-8836e3787843",
+        "columnId": "0f5edad2-7470-40b3-a0f5-2ede64bb3fc9",
+        "operator": "or",
+        "isEnabled": false,
+        "type": "tag",
+        "condition": "is",
+        "tagId": "b8042f66-4ff7-4a95-b3a6-5ba9cdcbcd94"
+      }
+    ],
+    "sources": [],
+    "settings": {
+      "numFrozenColumns": 1,
+      "showCalculationRow": true
+    },
+    "externalRowOrder": []
+  },
+  "pluginVersion": "8.16.0"
+}

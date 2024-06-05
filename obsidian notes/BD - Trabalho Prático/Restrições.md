@@ -1,0 +1,8 @@
+- As [[Secções]] não podem conter mais do que **10 produtos diferentes** como máximo
+- Um funcionário não pode trabalhar em [[Secções]] que não pertencem à estufa onde trabalha
+- O número de plantações nas [[Secções]] não podem ultrapassar as suas capacidades máximas (lembrando não podem conter mais que 10 produtos diferentes)
+- Não podem haver [[Colheitas]] sem haver [[Plantações]] primeiro
+- Uma [[Estufas]] ou [[PolyTunnel]] podem estar inoperáveis, caso estejam, será impossível realizar operações neles
+	- Podem estar inoperáveis por algum tipo de catástrofe, ou um galho de uma árvore caiu e partiu aquilo tudo
+- Não ser possível usar insumos numa plantação que já terminou
+- Impossível fazer colheita para plantações que já terminaram
